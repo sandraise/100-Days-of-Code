@@ -9,5 +9,5 @@ If you'd like to find out more about this challenge, see the below links:
 
 ## Daily Log
 
-**Log started:** 28 February 2022
+**Log started:** 28 February 2022 <br />
 **Log completed:** TBA
