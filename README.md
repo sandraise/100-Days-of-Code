@@ -9,7 +9,7 @@ If you'd like to find out more about this challenge, see the below links:
 
 ## Daily Log
 
-[See my daily progress here](https://github.com/sandraise/100-Days-of-Code/tree/main/Log)
+[See my daily progress here](https://github.com/sandraise/100-Days-of-Code/blob/main/Log.md)
 
 **Log started:** 28 February 2022 <br />
 **Log completed:** TBA
