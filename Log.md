@@ -4,7 +4,7 @@
 
 **Today's Progress**
 
-- Publically committed to this challenge - so excited to be part of this journey.
+- [Publically committed](https://twitter.com/codewithsandra/status/1498411258038697992?s=20&t=YlzHiWTQ_50xu6izXA5_kw) to this challenge - so excited to be part of this journey.
 - Updated my Github profile overview README.
 
 **Thoughts**
