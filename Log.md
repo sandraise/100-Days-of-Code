@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+
+### Day 0: 28 February 2022 - Monday
+
+**Today's Progress**
+
+**Thoughts**
+
+**Links to work**
+
+**Resources**
+
+
 ### Day 0: 28 February 2022 - Monday
 
 **Today's Progress**
