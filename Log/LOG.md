@@ -1,25 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 1: 1 March 2022 - Tuesday
-
-**Today's Progress**
-
-**Thoughts**
-
-**Link(s) to work**
-
-1. [Link Text](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-
-## **Resources**
-
 ### Day 0: 28 February 2022 - Monday
 
 **Today's Progress**
+- Publically committed to this challenge - so excited to be part of this journey.
+- Updated my Github profile overview README.
 
 **Thoughts**
-
-**Link(s) to work**
-
-1. [Link Text](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-
-## **Resources**
+- I will need to create a plan to effectively document my daily progress.
+- Thinking of some fun projects I can build, I will update when I have something solid to work on.
