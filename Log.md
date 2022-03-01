@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: 1 March 2022 - Tuesday
+### [Day 1] Tuesday, 1 March 2022
 
 **Today's Progress**
 
@@ -24,7 +24,7 @@ I learnt that the app actually involves a lot more JavaScript than I originally 
 - [Verse of the day Bible API](https://docs.api.bible/tutorials/verse-of-the-day/)
 - [Run-JS](https://www.npmjs.com/package/run-js)
 
-### Day 0: 28 February 2022 - Monday
+### [Day 0] Monday, 28 February 2022
 
 **Today's Progress**
 
