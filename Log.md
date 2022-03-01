@@ -3,9 +3,11 @@
 ### Day 1: 1 March 2022 - Tuesday
 
 **Today's Progress**
+
 Got started on a Momentum clone using a tutorial. I would like to customise it by having a "Verse of the Day" also displayed.
 
 **Thoughts**
+
 I learnt that the app actually involves a lot more JavaScript than I originally thought - especially if I want to use an API to fetch bible verses.
 
 **Learning points**
@@ -13,7 +15,7 @@ I learnt that the app actually involves a lot more JavaScript than I originally 
 - `contenteditable` is an attribute that defined if an element can be editable by the user. It takes the values of `true` or `false`. I used this in the greeting textbox to alow the user to enter in their name and daily focus tasks.
 
 **Links to work**
-[Momentum Clone]()
+[Momentum Clone](https://github.com/sandraise/100-Days-of-Code/tree/main/Dynamic%20Landing%20Page)
 
 **Resources**
 
