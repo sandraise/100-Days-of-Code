@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Heebo:wght@300;500&display=swap");
+
+/* font-family: 'Heebo', sans-serif;
+font-family: 'Karla', sans-serif; */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Heebo", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+  color: black;
+  font-weight: 300;
+}
+
+#time {
+  font-size: 8rem;
+}
+
+#focus {
+  color: grey;
+}
+
+h1 {
+  margin-bottom: 3rem;
+  opacity: 0.6;
+}
+
+@media (max-width: 700px) {
+  #time {
+    font-size: 4rem;
+  }
+}
