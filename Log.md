@@ -9,6 +9,7 @@ Got started on a Momentum clone using a tutorial. I would like to customise it b
 **Thoughts**
 
 I learnt that the app actually involves a lot more JavaScript than I originally thought - especially if I want to use an API to fetch bible verses.
+Installed the Run-JS plugin that allows one to see JS code in the browser.
 
 **Learning points**
 
