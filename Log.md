@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Daily Log
 
 ### [Day 1] Tuesday, 1 March 2022
 
