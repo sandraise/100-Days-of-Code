@@ -15,6 +15,7 @@ I learnt that the app actually involves a lot more JavaScript than I originally 
 - `contenteditable` is an attribute that defined if an element can be editable by the user. It takes the values of `true` or `false`. I used this in the greeting textbox to alow the user to enter in their name and daily focus tasks.
 
 **Links to work**
+
 [Momentum Clone](https://github.com/sandraise/100-Days-of-Code/tree/main/Dynamic%20Landing%20Page)
 
 **Resources**
