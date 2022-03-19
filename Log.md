@@ -1,5 +1,49 @@
 # 100 Days Of Code - Daily Log
 
+### [Day 19] Saturday 19 March 2022
+
+**Today's Progress**
+
+**Thoughts**
+
+**Learning points**
+
+**Links to work**
+[Codewars Repo](https://github.com/sandraise/Codewars)
+
+### [Day 18] Friday 18 March 2022
+
+**Today's Progress**
+
+**Thoughts**
+
+**Learning points**
+
+**Links to work**
+
+[Codewars Repo](https://github.com/sandraise/Codewars)
+
+### [Day 14-17] Monday March 2022 - Thursday 17 March 2022
+
+**Today's Progress**
+
+**Thoughts**
+
+**Learning points**
+
+**Links to work**
+[Codewars Repo](https://github.com/sandraise/Codewars)
+
+### [Day 9-13] Tuesday 9 March 2022 - Thursday 13 March 2022
+
+**Today's Progress**
+
+**Thoughts**
+
+**Learning points**
+
+**Links to work**
+
 ### [Day 8] Tuesday, 8 March 2022
 
 **Today's Progress**
@@ -16,7 +60,11 @@
 - Researched the `toFixed()`method
 - Completed all JS exercises for #100Devs Class 16
 
-### [Day 3-6] Thursday, 3 March 2022 - Sunday, 6 March 2022
+**Links to work**
+
+- [Portfolio]()
+
+### [Day 4-6] Friday, 4 March 2022 - Sunday, 6 March 2022
 
 **Overall Progress**
 
@@ -24,11 +72,11 @@
 - Did some JavaScript practice with the Momentum clone app
 - Read a few JS articles covering OOP
 
-### [Day 2] Wednesday, 2 March 2022
+### [Day 3] Thursday, 3 March 2022
 
 **Today's Progress**
 
-Updated
+Updated Momentum clone project
 
 **Thoughts**
 
@@ -48,7 +96,7 @@ Installed the Run-JS plugin that allows one to see JS code in the browser.
 - ['I Do Not Know Object Oriented Programming!' by @devVGBG on Twitter](https://dev.to/resourcefulmind/i-do-not-know-object-oriented-programming-1bim)
 - [Verse of the day Bible API](https://docs.api.bible/tutorials/verse-of-the-day/)
 
-### [Day 1] Tuesday, 1 March 2022
+### [Day 2] Wednesday, 2 March 2022
 
 **Today's Progress**
 
